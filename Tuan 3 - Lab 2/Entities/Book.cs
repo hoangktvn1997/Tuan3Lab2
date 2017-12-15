@@ -8,6 +8,6 @@ namespace Tuan_3___Lab_2.Entities
 {
     class Book
     {
-
+        //...
     }
 }
